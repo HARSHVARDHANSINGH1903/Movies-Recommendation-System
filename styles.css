@@ -1,0 +1,88 @@
+body {
+  background: #20232a;
+  font-family: Arial, sans-serif;
+  color: #fff;
+}
+
+body {
+  /* --- New Background Image Properties --- */
+  background-image: url('https://wallpapers.com/images/featured/movie-9pvmdtvz4cb0xl37.jpg'); 
+  background-size: cover;          
+  background-repeat: no-repeat;    
+  background-position: center;     
+  background-attachment: fixed;    
+
+  font-family: Arial, sans-serif;
+  color: #32ffdb;
+  margin: 0; 
+}
+
+.footer {
+  text-align: center;
+  margin-top: 20px;
+  background-color: #000000;
+  font-size: 0.8em;
+  color: #32ffdb;
+}
+
+input[type="text"] {
+  width: 60%;
+  padding: 8px;
+  border-radius: 4px;
+  border: none;
+}
+
+button {
+  padding: 8px 16px;
+  background: #61dafb;
+  border: none;
+  color: #20232a;
+  border-radius: 4px;
+  margin-left: 8px;
+  cursor: pointer;
+}
+
+.recommendation-area {
+  margin-top: 30px;
+  padding: 20px;
+  background: #3a3f4b;
+  border-radius: 12px;
+  text-align: left;
+}
+
+.recommendation-area h2 {
+  margin-bottom: 12px;
+  color: #61dafb;
+}
+
+.recommendation-area ul {
+  list-style: disc inside;
+  padding-left: 0;
+  margin: 0;
+}
+
+.recommendation-area li {
+  padding: 6px 0;
+  border-bottom: 1px solid #4a4f5b;
+}
+/* header {
+  text-align: center;
+  margin-top: 50px;
+} */
+
+header h1 {
+  color: #32ffdb;
+  font-size: 2.5em;
+  text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.container { 
+  max-width: 650px; 
+  margin: 140px auto; 
+  padding: 40px; 
+  background: #282c34; 
+  border-radius: 16px; 
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2); 
+  text-align: center; 
+ } 
+
